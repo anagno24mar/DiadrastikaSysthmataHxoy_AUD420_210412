@@ -23,4 +23,4 @@ I am a student of the Ionian University
 
 # Image Test
 
-- ![alt text](IMG_0234.jpg =250x).
+- ![](IMG_0234.jpg | width=250)
