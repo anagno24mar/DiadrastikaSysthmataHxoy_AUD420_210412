@@ -5,4 +5,10 @@ I am a student of the Ionian University
 ## Δευτέρα 12 Απριλίου 2021
 Περίληψη Links:
 
-- Test 1, 2, 3
+- https://www.youtube.com/results?search_query=this+equation+will+change+how+you+can+see+the+world+
+
+- https://en.wikipedia.org/wiki/Feigenbaum_constants
+
+- https://www.youtube.com/watch?v=ETrYE4MdoLQ
+
+-https://www.youtube.com/watch?v=fDek6cYijxI
