@@ -21,3 +21,6 @@ I am a student of the Ionian University
 
 - ![alt something else](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
 
+# Image Test
+
+- ![alt text](IMG_0234.jpg "Hey it's me").
