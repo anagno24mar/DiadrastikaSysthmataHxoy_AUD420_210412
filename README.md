@@ -23,4 +23,4 @@ I am a student of the Ionian University
 
 # Image Test
 
-- ![](IMG_0234.jpg | width=250)
+- <img src="IMG_0234.jpg" alt="alt text" width="500" height="700">
