@@ -14,3 +14,5 @@ Regardless of experience, every professional or beginner user of the Super Colli
        3. Synth(\default); // Continuous default sound, stereo. Press command + . to stop sound.
 
 ## Pay Attention below!!!
+
+On the occasion of today's university course(AUD420), at the School of Sound and Visual Arts, which took place online, using the Zoom platform, I would like to share with you a problem that we were called to face.
