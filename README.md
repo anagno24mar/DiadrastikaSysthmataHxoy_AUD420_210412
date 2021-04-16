@@ -26,4 +26,4 @@ I am a student of the Ionian University
 
 # Image Test
 
-- <img src="IMG_0234.jpg" alt="alt text" width="250">
+- <img src="IMG_1536.JPG" alt="alt text" width="150">
