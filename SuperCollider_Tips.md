@@ -13,4 +13,4 @@ Regardless of experience, every professional or beginner user of the Super Colli
        2. { PinkNoise.ar(0.1) }.play; // Continuous Pink noise, Mono. Press command + . to stop sound.
        3. Synth(\default); // Continuous default sound, stereo. Press command + . to stop sound.
 
-
+## Pay Attention!!!
