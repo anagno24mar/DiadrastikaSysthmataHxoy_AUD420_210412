@@ -6,6 +6,7 @@
 
 ## Νecessary advices to seafarers.
 - Sound Control.
+
 Regardless of experience, every professional or beginner user of the Super Collider must do an audio check before starting to create his/her own audio track.
 
 
