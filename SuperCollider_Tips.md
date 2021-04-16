@@ -5,5 +5,6 @@
 
 
 ## Νecessary advices to seafarers.
+- 1) Sound Check
 
 
