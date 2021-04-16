@@ -4,3 +4,6 @@
 - [Here i appose you the link with which you can download the application.](https://supercollider.github.io/download) One simple click is enough!
 
 
+## Νecessary advices to seafarers.
+
+
