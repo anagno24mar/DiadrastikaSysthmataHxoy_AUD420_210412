@@ -1,6 +1,6 @@
 # Hello Everyone
 ## My name is Mary Anagnopoulou
-**I am a student at the Ionian University**
+*I am a student at the Ionian University*
 
 
 # Links 
