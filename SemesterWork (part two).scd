@@ -27,6 +27,8 @@ Below i quote to you the function of the audio track
 
 
 m = ~mypiece.play(args: [\freq,7]); // Press here ctrl + (.) to play the track.
+
+
 m.set(\gate, 0, \fadeTime, 5); // Press here ctrl + (.), after 7 seconds, to stop the audio track.
 
 
